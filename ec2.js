@@ -1,4 +1,4 @@
-document.getElementById(id_business_version).innerHTML="Bussiness version: 2017.10.12.1";
+document.getElementById(id_business_version).innerHTML="Bussiness version: 2018.10.12.1";
 
 function solve()
 {
